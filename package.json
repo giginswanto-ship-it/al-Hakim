@@ -1,0 +1,12 @@
+{
+  "name": "masjid-al-hakim-transparansi",
+  "version": "1.0.0",
+  "description": "Sistem Transparansi Kas & Pelaporan Publik Jamaah Masjid Al-Hakim",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": ["masjid", "transparansi", "infaq", "qris", "donasi"],
+  "author": "DKM Masjid Al-Hakim",
+  "license": "MIT"
+}
